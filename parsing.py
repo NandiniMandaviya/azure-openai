@@ -69,6 +69,5 @@ url_filename_mapping = {
 }
 
 
-if __name__ == "__main__":
-    #process_text_files(url_filename_mapping)
-    chunk_data(url_filename_mapping)
+process_text_files(url_filename_mapping)
+chunk_data(url_filename_mapping)
