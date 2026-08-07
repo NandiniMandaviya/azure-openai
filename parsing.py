@@ -68,6 +68,6 @@ url_filename_mapping = {
             "LT_Annual_Review_2020.pdf",
 }
 
-
-process_text_files(url_filename_mapping)
-chunk_data(url_filename_mapping)
+def run_parse_and_chunk():
+    process_text_files(url_filename_mapping)
+    chunk_data(url_filename_mapping)
