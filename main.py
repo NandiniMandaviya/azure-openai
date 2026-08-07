@@ -51,16 +51,16 @@ url_filename_mapping = {
 
     # L&T Annual Reports
             # Annual Reports
+    "https://investors.larsentoubro.com/upload/AnnualRep/FY2026AnnualRepLNTIARFY2026.pdf":
+            "LT_Annual_Review_2026.pdf",
+    
     "https://annualreview.larsentoubro.com/download/L&T-Annual-Review-2024.pdf":
             "LT_Annual_Review_2024.pdf",
     
-    "https://annualreview.larsentoubro.com/download/L&T-Annual-Review-2023.pdf":
-            "LT_Annual_Review_2023.pdf",
+    "https://investors.larsentoubro.com/upload/AnnualRep/FY2024AnnualRepLnT%20IAR24.pdf":
+            "LT_Annual_Review_2023-24.pdf",
     
-    "https://annualreview.larsentoubro.com/download/L&T-Annual-Review-2022.pdf":
-            "LT_Annual_Review_2022.pdf",
-    
-    "https://annualreview.larsentoubro.com/download/L&T-Annual-Review-2021.pdf":
+    "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/13829458/34805698.pdf":
             "LT_Annual_Review_2021.pdf",
     
     "https://annualreview.larsentoubro.com/download/L&T-Annual-Review-2020.pdf":
