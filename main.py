@@ -1,4 +1,5 @@
 from utils.parsing_utils import process_text_files
+from utils.chunk_utils import chunk_data
 
 url_filename_mapping = {
     # L&T Corporate
@@ -70,3 +71,4 @@ url_filename_mapping = {
 
 if __name__ == "__main__":
     process_text_files(url_filename_mapping)
+    chunk_data(url_filename_mapping)
