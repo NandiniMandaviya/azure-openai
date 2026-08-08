@@ -15,6 +15,5 @@ if __name__ == "__main__":
     print("Hello user, what would you like to know?")
     query = input()
 
-    relevant_content = query_and_rerank_chroma_db(cross_encoder, model, collection, query, top_k=3)
+    relevant_content = query_and_rerank_chroma_db(cross_encoder, model, collection, query, 3)
     print(relevant_content)
-
