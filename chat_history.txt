@@ -1,0 +1,90 @@
+
+================================================================================
+Timestamp: 2026-08-08 21:32:35.133116
+================================================================================
+
+BASE PROMPT:
+Who is the chairman of L&T?
+
+USER QUERY:
+
+Attached context:
+
+L&T Finance Limited Non-Executive Chairman
+L&T Metro Rail (Hyderabad) LimitedNon-Executive Chairman
+Mr. R. Shankar Raman 6 2 – LTM Limited Non-Executive Director
+L&T Finance Limited Non-Executive Director
+Mr. Subramanian Sarma 3 – – None
+Mr. S. V. Desai 2 – – None
+Mr. T. Madhava Das – 1 – None
+Mr. Anil V Parab 3 – – None
+Mr. Sanjeev Aga 2 1 – LTM Limited Independent Director
+Vishal Mega Mart Limited Non-Executive Director
+Mr. Narayanan Kumar 1 1 – L&T Technology Services LimitedIndependent Director
+
+Mr. S. N. Subrahmanyan 6 0 0 LTIMindtree Limited Non- Executive 
+Vice- Chairman
+L&T Technology Services 
+LimitedNon- Executive 
+Vice- Chairman
+L&T Finance Limited 
+(Formerly L&T Finance 
+Holdings Limited)Non-Executive Chairman
+Mr. R. Shankar Raman 6 4 0 LTIMindtree Limited Non-Executive Director
+L&T Finance Limited 
+(Formerly L&T Finance 
+Holdings Limited)Non-Executive Director
+Annexure to  
+the Board Report
+Integrated Annual Report 2023-24336Name of DirectorNo. of other 
+company 
+Directorships No. of
+
+Group level including functions like Risk Management and Investor Relations. Mr. R Shankar Raman was appointed as the Chief Financial Officer of Larsen & Toubro Limited in September 2011 and subsequently elevated to the Board on October 1, 2011. He is a member of the Executive Committee of L&T since 2015. Mr. Shankar Raman is also on the Board of Management of several companies within the L&T Group. He had participated and presented papers in several conventions/ seminars both in India and abroad.
+
+User question:
+Who is the chairman of L&T?
+
+
+RETRIEVED CONTEXT:
+L&T Finance Limited Non-Executive Chairman
+L&T Metro Rail (Hyderabad) LimitedNon-Executive Chairman
+Mr. R. Shankar Raman 6 2 – LTM Limited Non-Executive Director
+L&T Finance Limited Non-Executive Director
+Mr. Subramanian Sarma 3 – – None
+Mr. S. V. Desai 2 – – None
+Mr. T. Madhava Das – 1 – None
+Mr. Anil V Parab 3 – – None
+Mr. Sanjeev Aga 2 1 – LTM Limited Independent Director
+Vishal Mega Mart Limited Non-Executive Director
+Mr. Narayanan Kumar 1 1 – L&T Technology Services LimitedIndependent Director
+
+Mr. S. N. Subrahmanyan 6 0 0 LTIMindtree Limited Non- Executive 
+Vice- Chairman
+L&T Technology Services 
+LimitedNon- Executive 
+Vice- Chairman
+L&T Finance Limited 
+(Formerly L&T Finance 
+Holdings Limited)Non-Executive Chairman
+Mr. R. Shankar Raman 6 4 0 LTIMindtree Limited Non-Executive Director
+L&T Finance Limited 
+(Formerly L&T Finance 
+Holdings Limited)Non-Executive Director
+Annexure to  
+the Board Report
+Integrated Annual Report 2023-24336Name of DirectorNo. of other 
+company 
+Directorships No. of
+
+Group level including functions like Risk Management and Investor Relations. Mr. R Shankar Raman was appointed as the Chief Financial Officer of Larsen & Toubro Limited in September 2011 and subsequently elevated to the Board on October 1, 2011. He is a member of the Executive Committee of L&T since 2015. Mr. Shankar Raman is also on the Board of Management of several companies within the L&T Group. He had participated and presented papers in several conventions/ seminars both in India and abroad.
+
+MODEL RESPONSE:
+Based on the provided context, **Mr. S. N. Subrahmanyan** and **Mr. R. Shankar Raman** are mentioned as chairmen for specific L&T group companies, but the context does not explicitly state who the Chairman of the parent company, Larsen & Toubro Limited (L&T), is.
+
+Here is what the context specifies regarding chairmanships:
+*   **Mr. S. N. Subrahmanyan** is listed as the Non-Executive Vice-Chairman for **LTIMindtree Limited** and **L&T Technology Services Limited**, and the Non-Executive Chairman for **L&T Finance Limited**.
+*   **Mr. R. Shankar Raman** is listed as the Non-Executive Chairman for **L&T Finance Limited** and **L&T Metro Rail (Hyderabad) Limited**.
+
+The text also notes that Mr. R. Shankar Raman is the Chief Financial Officer of Larsen & Toubro Limited, but his role as Chairman of the parent company is not mentioned.
+
