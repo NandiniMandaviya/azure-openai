@@ -1,5 +1,5 @@
-from utils.parsing_utils import process_text_files
-from utils.chunk_utils import chunk_data
+from src.utils.parsing_utils import process_text_files
+from src.utils.chunk_utils import chunk_data
 
 url_filename_mapping = {
     # L&T Corporate

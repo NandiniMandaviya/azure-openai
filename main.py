@@ -5,12 +5,12 @@ import chromadb
 from src.retrieval import query_and_rerank_chroma_db
 
 if __name__ == "__main__":
-    run_parse_and_chunk()
-    run_add_to_chroma_db()
+    #run_parse_and_chunk()
+    #run_add_to_chroma_db()
     model = SentenceTransformer("sentence-transformers/all-MiniLM-L6-v2")
     client = chromadb.PersistentClient(path="./LNTRAG_CHROMADB")
     collection = client.get_or_create_collection(name="LNT_COLLECTION")
-    cross_encoder = CrossEncoder("cross-encoder/ms-marco-MiniLM-L-6_v2")
+    cross_encoder = CrossEncoder("cross-encoder/ms-marco-MiniLM-L6-v2")
 
     print("Hello user, what would you like to know?")
     query = input()
